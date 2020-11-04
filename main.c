@@ -5,7 +5,7 @@
 
  int main(void) {
 
-  int g = 0;
+  
   int a = 0;
   int b = 12;
   int add = a + b;
